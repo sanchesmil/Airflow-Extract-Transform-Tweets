@@ -1,0 +1,11 @@
+[2023-11-14 15:19:19,771] {processor.py:153} INFO - Started process (PID=5339) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-11-14 15:19:19,771] {processor.py:641} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-11-14 15:19:19,771] {logging_mixin.py:115} INFO - [2023-11-14 15:19:19,771] {dagbag.py:507} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-11-14 15:19:19,778] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-11-14 15:19:19,851] {logging_mixin.py:115} INFO - [2023-11-14 15:19:19,851] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_branch_operator
+[2023-11-14 15:19:19,874] {logging_mixin.py:115} INFO - [2023-11-14 15:19:19,874] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_branch_operator
+[2023-11-14 15:19:19,897] {logging_mixin.py:115} INFO - [2023-11-14 15:19:19,896] {manager.py:508} INFO - Created Permission View: can read on DAG:example_branch_operator
+[2023-11-14 15:19:19,897] {logging_mixin.py:115} INFO - [2023-11-14 15:19:19,897] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-11-14 15:19:19,904] {logging_mixin.py:115} INFO - [2023-11-14 15:19:19,904] {dag.py:2398} INFO - Creating ORM DAG for example_branch_operator
+[2023-11-14 15:19:19,913] {logging_mixin.py:115} INFO - [2023-11-14 15:19:19,913] {dag.py:2927} INFO - Setting next_dagrun for example_branch_operator to 2023-11-13T00:00:00+00:00, run_after=2023-11-14T00:00:00+00:00
+[2023-11-14 15:19:19,939] {processor.py:161} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.171 seconds

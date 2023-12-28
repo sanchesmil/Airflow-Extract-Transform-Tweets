@@ -1,0 +1,11 @@
+[2023-11-14 15:19:14,525] {processor.py:153} INFO - Started process (PID=5334) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2023-11-14 15:19:14,525] {processor.py:641} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py for tasks to queue
+[2023-11-14 15:19:14,525] {logging_mixin.py:115} INFO - [2023-11-14 15:19:14,525] {dagbag.py:507} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2023-11-14 15:19:14,531] {processor.py:651} INFO - DAG(s) dict_keys(['example_weekday_branch_operator']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2023-11-14 15:19:14,587] {logging_mixin.py:115} INFO - [2023-11-14 15:19:14,587] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_weekday_branch_operator
+[2023-11-14 15:19:14,599] {logging_mixin.py:115} INFO - [2023-11-14 15:19:14,599] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_weekday_branch_operator
+[2023-11-14 15:19:14,620] {logging_mixin.py:115} INFO - [2023-11-14 15:19:14,620] {manager.py:508} INFO - Created Permission View: can read on DAG:example_weekday_branch_operator
+[2023-11-14 15:19:14,620] {logging_mixin.py:115} INFO - [2023-11-14 15:19:14,620] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-11-14 15:19:14,626] {logging_mixin.py:115} INFO - [2023-11-14 15:19:14,626] {dag.py:2398} INFO - Creating ORM DAG for example_weekday_branch_operator
+[2023-11-14 15:19:14,643] {logging_mixin.py:115} INFO - [2023-11-14 15:19:14,643] {dag.py:2927} INFO - Setting next_dagrun for example_weekday_branch_operator to 2023-11-13T00:00:00+00:00, run_after=2023-11-14T00:00:00+00:00
+[2023-11-14 15:19:14,659] {processor.py:161} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py took 0.137 seconds

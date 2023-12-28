@@ -1,0 +1,11 @@
+[2023-11-14 15:19:21,533] {processor.py:153} INFO - Started process (PID=5341) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-11-14 15:19:21,534] {processor.py:641} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-11-14 15:19:21,534] {logging_mixin.py:115} INFO - [2023-11-14 15:19:21,534] {dagbag.py:507} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-11-14 15:19:21,537] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-11-14 15:19:21,592] {logging_mixin.py:115} INFO - [2023-11-14 15:19:21,592] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_time_delta_sensor_async
+[2023-11-14 15:19:21,604] {logging_mixin.py:115} INFO - [2023-11-14 15:19:21,604] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_time_delta_sensor_async
+[2023-11-14 15:19:21,615] {logging_mixin.py:115} INFO - [2023-11-14 15:19:21,615] {manager.py:508} INFO - Created Permission View: can read on DAG:example_time_delta_sensor_async
+[2023-11-14 15:19:21,615] {logging_mixin.py:115} INFO - [2023-11-14 15:19:21,615] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-11-14 15:19:21,620] {logging_mixin.py:115} INFO - [2023-11-14 15:19:21,620] {dag.py:2398} INFO - Creating ORM DAG for example_time_delta_sensor_async
+[2023-11-14 15:19:21,625] {logging_mixin.py:115} INFO - [2023-11-14 15:19:21,625] {dag.py:2927} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-11-14 15:19:21,638] {processor.py:161} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.107 seconds

@@ -1,0 +1,11 @@
+[2023-11-14 15:19:12,282] {processor.py:153} INFO - Started process (PID=5332) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-11-14 15:19:12,282] {processor.py:641} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-11-14 15:19:12,283] {logging_mixin.py:115} INFO - [2023-11-14 15:19:12,283] {dagbag.py:507} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-11-14 15:19:12,304] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-11-14 15:19:12,381] {logging_mixin.py:115} INFO - [2023-11-14 15:19:12,381] {manager.py:508} INFO - Created Permission View: can edit on DAG:tutorial_taskflow_api_etl
+[2023-11-14 15:19:12,400] {logging_mixin.py:115} INFO - [2023-11-14 15:19:12,399] {manager.py:508} INFO - Created Permission View: can delete on DAG:tutorial_taskflow_api_etl
+[2023-11-14 15:19:12,427] {logging_mixin.py:115} INFO - [2023-11-14 15:19:12,427] {manager.py:508} INFO - Created Permission View: can read on DAG:tutorial_taskflow_api_etl
+[2023-11-14 15:19:12,427] {logging_mixin.py:115} INFO - [2023-11-14 15:19:12,427] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-11-14 15:19:12,435] {logging_mixin.py:115} INFO - [2023-11-14 15:19:12,434] {dag.py:2398} INFO - Creating ORM DAG for tutorial_taskflow_api_etl
+[2023-11-14 15:19:12,445] {logging_mixin.py:115} INFO - [2023-11-14 15:19:12,445] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-11-14 15:19:12,475] {processor.py:161} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.196 seconds

@@ -1,0 +1,11 @@
+[2023-11-14 15:19:13,517] {processor.py:153} INFO - Started process (PID=5333) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-11-14 15:19:13,517] {processor.py:641} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-11-14 15:19:13,518] {logging_mixin.py:115} INFO - [2023-11-14 15:19:13,518] {dagbag.py:507} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-11-14 15:19:13,521] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-11-14 15:19:13,575] {logging_mixin.py:115} INFO - [2023-11-14 15:19:13,575] {manager.py:508} INFO - Created Permission View: can edit on DAG:tutorial
+[2023-11-14 15:19:13,588] {logging_mixin.py:115} INFO - [2023-11-14 15:19:13,588] {manager.py:508} INFO - Created Permission View: can delete on DAG:tutorial
+[2023-11-14 15:19:13,599] {logging_mixin.py:115} INFO - [2023-11-14 15:19:13,598] {manager.py:508} INFO - Created Permission View: can read on DAG:tutorial
+[2023-11-14 15:19:13,599] {logging_mixin.py:115} INFO - [2023-11-14 15:19:13,599] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-11-14 15:19:13,604] {logging_mixin.py:115} INFO - [2023-11-14 15:19:13,604] {dag.py:2398} INFO - Creating ORM DAG for tutorial
+[2023-11-14 15:19:13,611] {logging_mixin.py:115} INFO - [2023-11-14 15:19:13,611] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2023-11-13T18:19:13.611066+00:00, run_after=2023-11-14T18:19:13.611066+00:00
+[2023-11-14 15:19:13,626] {processor.py:161} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.111 seconds

@@ -1,0 +1,11 @@
+[2023-11-14 15:19:07,038] {processor.py:153} INFO - Started process (PID=5327) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-14 15:19:07,038] {processor.py:641} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-11-14 15:19:07,038] {logging_mixin.py:115} INFO - [2023-11-14 15:19:07,038] {dagbag.py:507} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-14 15:19:07,052] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-14 15:19:07,106] {logging_mixin.py:115} INFO - [2023-11-14 15:19:07,106] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_dag_decorator
+[2023-11-14 15:19:07,120] {logging_mixin.py:115} INFO - [2023-11-14 15:19:07,119] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_dag_decorator
+[2023-11-14 15:19:07,130] {logging_mixin.py:115} INFO - [2023-11-14 15:19:07,130] {manager.py:508} INFO - Created Permission View: can read on DAG:example_dag_decorator
+[2023-11-14 15:19:07,131] {logging_mixin.py:115} INFO - [2023-11-14 15:19:07,131] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-11-14 15:19:07,135] {logging_mixin.py:115} INFO - [2023-11-14 15:19:07,135] {dag.py:2398} INFO - Creating ORM DAG for example_dag_decorator
+[2023-11-14 15:19:07,140] {logging_mixin.py:115} INFO - [2023-11-14 15:19:07,140] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-11-14 15:19:07,156] {processor.py:161} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.120 seconds

@@ -1,0 +1,11 @@
+[2023-11-14 15:19:29,131] {processor.py:153} INFO - Started process (PID=5348) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2023-11-14 15:19:29,132] {processor.py:641} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2023-11-14 15:19:29,132] {logging_mixin.py:115} INFO - [2023-11-14 15:19:29,132] {dagbag.py:507} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2023-11-14 15:19:29,135] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2023-11-14 15:19:29,188] {logging_mixin.py:115} INFO - [2023-11-14 15:19:29,188] {manager.py:508} INFO - Created Permission View: can edit on DAG:latest_only_with_trigger
+[2023-11-14 15:19:29,199] {logging_mixin.py:115} INFO - [2023-11-14 15:19:29,199] {manager.py:508} INFO - Created Permission View: can delete on DAG:latest_only_with_trigger
+[2023-11-14 15:19:29,210] {logging_mixin.py:115} INFO - [2023-11-14 15:19:29,210] {manager.py:508} INFO - Created Permission View: can read on DAG:latest_only_with_trigger
+[2023-11-14 15:19:29,211] {logging_mixin.py:115} INFO - [2023-11-14 15:19:29,211] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-11-14 15:19:29,215] {logging_mixin.py:115} INFO - [2023-11-14 15:19:29,215] {dag.py:2398} INFO - Creating ORM DAG for latest_only_with_trigger
+[2023-11-14 15:19:29,221] {logging_mixin.py:115} INFO - [2023-11-14 15:19:29,221] {dag.py:2927} INFO - Setting next_dagrun for latest_only_with_trigger to 2023-11-14T14:19:29.221145+00:00, run_after=2023-11-14T18:19:29.221145+00:00
+[2023-11-14 15:19:29,237] {processor.py:161} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.107 seconds

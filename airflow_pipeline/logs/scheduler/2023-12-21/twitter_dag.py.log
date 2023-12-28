@@ -1,0 +1,865 @@
+[2023-12-21T16:58:38.466-0300] {processor.py:157} INFO - Started process (PID=12855) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T16:58:38.468-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T16:58:38.469-0300] {logging_mixin.py:154} INFO - [2023-12-21T16:58:38.468-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T16:58:38.503-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T16:58:38.806-0300] {logging_mixin.py:154} INFO - [2023-12-21T16:58:38.806-0300] {manager.py:499} INFO - Created Permission View: %s
+[2023-12-21T16:58:38.833-0300] {logging_mixin.py:154} INFO - [2023-12-21T16:58:38.833-0300] {manager.py:499} INFO - Created Permission View: %s
+[2023-12-21T16:58:38.866-0300] {logging_mixin.py:154} INFO - [2023-12-21T16:58:38.866-0300] {manager.py:499} INFO - Created Permission View: %s
+[2023-12-21T16:58:38.867-0300] {logging_mixin.py:154} INFO - [2023-12-21T16:58:38.867-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T16:58:38.882-0300] {logging_mixin.py:154} INFO - [2023-12-21T16:58:38.881-0300] {dag.py:2963} INFO - Creating ORM DAG for TwitterDAG
+[2023-12-21T16:58:38.907-0300] {logging_mixin.py:154} INFO - [2023-12-21T16:58:38.907-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T16:58:38.978-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.515 seconds
+[2023-12-21T16:59:29.698-0300] {processor.py:157} INFO - Started process (PID=13216) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T16:59:29.699-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T16:59:29.699-0300] {logging_mixin.py:154} INFO - [2023-12-21T16:59:29.699-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T16:59:29.708-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T16:59:29.720-0300] {logging_mixin.py:154} INFO - [2023-12-21T16:59:29.719-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T16:59:29.734-0300] {logging_mixin.py:154} INFO - [2023-12-21T16:59:29.734-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T16:59:29.762-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.066 seconds
+[2023-12-21T17:00:05.836-0300] {processor.py:157} INFO - Started process (PID=13452) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:00:05.847-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:00:05.848-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:00:05.848-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:00:05.871-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:00:05.884-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:00:05.883-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:00:05.931-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:00:05.931-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:00:05.963-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.130 seconds
+[2023-12-21T17:00:51.058-0300] {processor.py:157} INFO - Started process (PID=13923) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:00:51.061-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:00:51.061-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:00:51.061-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:00:51.070-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:00:51.080-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:00:51.080-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:00:51.095-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:00:51.095-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:00:51.119-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.063 seconds
+[2023-12-21T17:01:22.852-0300] {processor.py:157} INFO - Started process (PID=14065) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:01:22.852-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:01:22.853-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:01:22.852-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:01:22.860-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:01:22.871-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:01:22.871-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:01:22.884-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:01:22.884-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:01:22.907-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.058 seconds
+[2023-12-21T17:01:57.156-0300] {processor.py:157} INFO - Started process (PID=14147) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:01:57.159-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:01:57.159-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:01:57.159-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:01:57.167-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:01:57.177-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:01:57.177-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:01:57.191-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:01:57.191-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:01:57.214-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.059 seconds
+[2023-12-21T17:02:31.025-0300] {processor.py:157} INFO - Started process (PID=14293) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:02:31.026-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:02:31.026-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:02:31.026-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:02:31.036-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:02:31.045-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:02:31.045-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:02:31.063-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:02:31.062-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:02:31.086-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.063 seconds
+[2023-12-21T17:03:05.852-0300] {processor.py:157} INFO - Started process (PID=14380) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:03:05.855-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:03:05.856-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:03:05.856-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:03:05.863-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:03:05.874-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:03:05.874-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:03:05.887-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:03:05.887-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:03:05.906-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.056 seconds
+[2023-12-21T17:03:36.740-0300] {processor.py:157} INFO - Started process (PID=14520) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:03:36.740-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:03:36.741-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:03:36.741-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:03:36.749-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:03:36.759-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:03:36.759-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:03:36.773-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:03:36.773-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:03:36.793-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.055 seconds
+[2023-12-21T17:04:09.150-0300] {processor.py:157} INFO - Started process (PID=14662) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:04:09.152-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:04:09.153-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:04:09.153-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:04:09.161-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:04:09.171-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:04:09.171-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:04:09.185-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:04:09.185-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:04:09.205-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.058 seconds
+[2023-12-21T17:04:40.819-0300] {processor.py:157} INFO - Started process (PID=14743) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:04:40.820-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:04:40.820-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:04:40.820-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:04:40.829-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:04:40.839-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:04:40.839-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:04:40.852-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:04:40.852-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:04:40.871-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.054 seconds
+[2023-12-21T17:05:12.286-0300] {processor.py:157} INFO - Started process (PID=14907) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:05:12.288-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:05:12.289-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:05:12.289-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:05:12.301-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:05:12.315-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:05:12.314-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:05:12.330-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:05:12.330-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:05:12.351-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.069 seconds
+[2023-12-21T17:05:45.142-0300] {processor.py:157} INFO - Started process (PID=15024) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:05:45.145-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:05:45.146-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:05:45.146-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:05:45.156-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:05:45.168-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:05:45.168-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:05:45.184-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:05:45.184-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:05:45.203-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.063 seconds
+[2023-12-21T17:06:15.321-0300] {processor.py:157} INFO - Started process (PID=15162) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:06:15.323-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:06:15.324-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:06:15.324-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:06:15.332-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:06:15.343-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:06:15.343-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:06:15.357-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:06:15.357-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:06:15.377-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.059 seconds
+[2023-12-21T17:06:47.623-0300] {processor.py:157} INFO - Started process (PID=15243) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:06:47.623-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:06:47.624-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:06:47.623-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:06:47.631-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:06:47.641-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:06:47.641-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:06:47.656-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:06:47.656-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:06:47.679-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.059 seconds
+[2023-12-21T17:07:18.527-0300] {processor.py:157} INFO - Started process (PID=15382) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:07:18.529-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:07:18.530-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:07:18.530-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:07:18.539-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:07:18.549-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:07:18.549-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:07:18.564-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:07:18.564-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:07:18.585-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.060 seconds
+[2023-12-21T17:07:49.413-0300] {processor.py:157} INFO - Started process (PID=15458) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:07:49.415-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:07:49.416-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:07:49.416-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:07:49.423-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:07:49.433-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:07:49.433-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:07:49.447-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:07:49.447-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:07:49.466-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.056 seconds
+[2023-12-21T17:08:21.425-0300] {processor.py:157} INFO - Started process (PID=15601) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:08:21.425-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:08:21.426-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:08:21.426-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:08:21.434-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:08:21.445-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:08:21.445-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:08:21.458-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:08:21.458-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:08:21.476-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.053 seconds
+[2023-12-21T17:09:06.678-0300] {processor.py:157} INFO - Started process (PID=15715) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:09:06.680-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:09:06.681-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:09:06.681-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:09:06.689-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:09:06.699-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:09:06.699-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:09:06.717-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:09:06.717-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:09:06.738-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.062 seconds
+[2023-12-21T17:09:51.161-0300] {processor.py:157} INFO - Started process (PID=15889) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:09:51.163-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:09:51.164-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:09:51.164-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:09:51.172-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:09:51.182-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:09:51.182-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:09:51.196-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:09:51.196-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:09:51.216-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.057 seconds
+[2023-12-21T17:10:35.698-0300] {processor.py:157} INFO - Started process (PID=16123) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:10:35.700-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:10:35.701-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:10:35.701-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:10:35.709-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:10:35.721-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:10:35.721-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:10:35.735-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:10:35.734-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:10:35.753-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.057 seconds
+[2023-12-21T17:11:05.995-0300] {processor.py:157} INFO - Started process (PID=16196) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:11:05.996-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:11:05.997-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:11:05.996-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:11:06.004-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:11:06.015-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:11:06.015-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:11:06.028-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:11:06.028-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:11:06.046-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.052 seconds
+[2023-12-21T17:11:40.907-0300] {processor.py:157} INFO - Started process (PID=16346) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:11:40.909-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:11:40.910-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:11:40.909-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:11:40.918-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:11:40.929-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:11:40.928-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:11:40.942-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:11:40.942-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:11:40.961-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.057 seconds
+[2023-12-21T17:12:13.393-0300] {processor.py:157} INFO - Started process (PID=16486) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:12:13.396-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:12:13.396-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:12:13.396-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:12:13.404-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:12:13.414-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:12:13.414-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:12:13.430-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:12:13.429-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:12:13.449-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.058 seconds
+[2023-12-21T17:12:43.671-0300] {processor.py:157} INFO - Started process (PID=16563) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:12:43.672-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:12:43.673-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:12:43.673-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:12:43.682-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:12:43.692-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:12:43.692-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:12:43.705-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:12:43.704-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:12:43.724-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.055 seconds
+[2023-12-21T17:13:15.073-0300] {processor.py:157} INFO - Started process (PID=16704) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:13:15.076-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:13:15.077-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:13:15.076-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:13:15.085-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:13:15.095-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:13:15.095-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:13:15.108-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:13:15.108-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:13:15.128-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.057 seconds
+[2023-12-21T17:13:48.531-0300] {processor.py:157} INFO - Started process (PID=16788) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:13:48.534-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:13:48.534-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:13:48.534-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:13:48.542-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:13:48.553-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:13:48.553-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:13:48.567-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:13:48.567-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:13:48.585-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.055 seconds
+[2023-12-21T17:14:19.418-0300] {processor.py:157} INFO - Started process (PID=16925) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:14:19.419-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:14:19.420-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:14:19.419-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:14:19.427-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:14:19.437-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:14:19.437-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:14:19.450-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:14:19.450-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:14:19.468-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.052 seconds
+[2023-12-21T17:14:50.306-0300] {processor.py:157} INFO - Started process (PID=17003) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:14:50.307-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:14:50.308-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:14:50.308-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:14:50.317-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:14:50.327-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:14:50.327-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:14:50.341-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:14:50.340-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:14:50.364-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.061 seconds
+[2023-12-21T17:15:35.107-0300] {processor.py:157} INFO - Started process (PID=17325) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:15:35.110-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:15:35.111-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:15:35.111-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:15:35.122-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:15:35.135-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:15:35.135-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:15:35.153-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:15:35.153-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:15:35.173-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.070 seconds
+[2023-12-21T17:16:06.740-0300] {processor.py:157} INFO - Started process (PID=17502) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:16:06.740-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:16:06.741-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:16:06.741-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:16:06.749-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:16:06.760-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:16:06.760-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:16:06.773-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:16:06.773-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:16:06.794-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.056 seconds
+[2023-12-21T17:16:37.714-0300] {processor.py:157} INFO - Started process (PID=17639) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:16:37.717-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:16:37.717-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:16:37.717-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:16:37.725-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:16:37.735-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:16:37.735-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:16:37.748-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:16:37.748-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:16:37.767-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.056 seconds
+[2023-12-21T17:17:09.406-0300] {processor.py:157} INFO - Started process (PID=17901) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:17:09.409-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:17:09.410-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:17:09.409-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:17:09.417-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:17:09.427-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:17:09.427-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:17:09.440-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:17:09.440-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:17:09.460-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.056 seconds
+[2023-12-21T17:17:40.345-0300] {processor.py:157} INFO - Started process (PID=18341) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:17:40.346-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:17:40.346-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:17:40.346-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:17:40.355-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:17:40.365-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:17:40.365-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:17:40.377-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:17:40.377-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:17:40.397-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.055 seconds
+[2023-12-21T17:18:13.219-0300] {processor.py:157} INFO - Started process (PID=18482) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:18:13.222-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:18:13.223-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:18:13.222-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:18:13.230-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:18:13.240-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:18:13.240-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:18:13.255-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:18:13.255-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:18:13.274-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.056 seconds
+[2023-12-21T17:18:47.000-0300] {processor.py:157} INFO - Started process (PID=18567) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:18:47.003-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:18:47.004-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:18:47.004-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:18:47.013-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:18:47.024-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:18:47.024-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:18:47.038-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:18:47.038-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:18:47.060-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.062 seconds
+[2023-12-21T17:19:19.014-0300] {processor.py:157} INFO - Started process (PID=18708) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:19:19.015-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:19:19.015-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:19:19.015-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:19:19.023-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:19:19.032-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:19:19.032-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:19:19.046-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:19:19.045-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:19:19.065-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.053 seconds
+[2023-12-21T17:19:51.008-0300] {processor.py:157} INFO - Started process (PID=18790) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:19:51.011-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:19:51.012-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:19:51.011-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:19:51.019-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:19:51.029-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:19:51.029-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:19:51.043-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:19:51.042-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:19:51.061-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.056 seconds
+[2023-12-21T17:20:22.579-0300] {processor.py:157} INFO - Started process (PID=18988) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:20:22.579-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:20:22.580-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:20:22.580-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:20:22.588-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:20:22.598-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:20:22.597-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:20:22.611-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:20:22.611-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:20:22.630-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.054 seconds
+[2023-12-21T17:20:55.764-0300] {processor.py:157} INFO - Started process (PID=19075) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:20:55.766-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:20:55.767-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:20:55.767-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:20:55.775-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:20:55.786-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:20:55.786-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:20:55.800-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:20:55.800-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:20:55.819-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.057 seconds
+[2023-12-21T17:21:28.928-0300] {processor.py:157} INFO - Started process (PID=19215) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:21:28.928-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:21:28.929-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:21:28.929-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:21:28.936-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:21:28.946-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:21:28.946-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:21:28.960-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:21:28.960-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:21:28.979-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.054 seconds
+[2023-12-21T17:22:02.608-0300] {processor.py:157} INFO - Started process (PID=19300) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:22:02.610-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:22:02.611-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:22:02.611-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:22:02.619-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:22:02.629-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:22:02.628-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:22:02.643-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:22:02.643-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:22:02.661-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.055 seconds
+[2023-12-21T17:22:34.009-0300] {processor.py:157} INFO - Started process (PID=19440) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:22:34.010-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:22:34.011-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:22:34.010-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:22:34.021-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:22:34.032-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:22:34.032-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:22:34.046-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:22:34.045-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:22:34.064-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.059 seconds
+[2023-12-21T17:23:06.797-0300] {processor.py:157} INFO - Started process (PID=19523) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:23:06.800-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:23:06.800-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:23:06.800-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:23:06.808-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:23:06.818-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:23:06.818-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:23:06.831-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:23:06.831-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:23:06.850-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.055 seconds
+[2023-12-21T17:23:38.714-0300] {processor.py:157} INFO - Started process (PID=19661) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:23:38.715-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:23:38.715-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:23:38.715-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:23:38.723-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:23:38.733-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:23:38.733-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:23:38.746-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:23:38.746-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:23:38.765-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.054 seconds
+[2023-12-21T17:24:11.322-0300] {processor.py:157} INFO - Started process (PID=19806) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:24:11.324-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:24:11.325-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:24:11.325-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:24:11.333-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:24:11.344-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:24:11.343-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:24:11.359-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:24:11.359-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:24:11.379-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.060 seconds
+[2023-12-21T17:24:45.560-0300] {processor.py:157} INFO - Started process (PID=19890) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:24:45.563-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:24:45.563-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:24:45.563-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:24:45.571-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:24:45.581-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:24:45.581-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:24:45.594-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:24:45.594-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:24:45.614-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.056 seconds
+[2023-12-21T17:25:18.187-0300] {processor.py:157} INFO - Started process (PID=20096) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:25:18.190-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:25:18.191-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:25:18.190-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:25:18.198-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:25:18.208-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:25:18.208-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:25:18.221-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:25:18.221-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:25:18.239-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.054 seconds
+[2023-12-21T17:25:50.748-0300] {processor.py:157} INFO - Started process (PID=20177) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:25:50.749-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:25:50.749-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:25:50.749-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:25:50.757-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:25:50.767-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:25:50.767-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:25:50.781-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:25:50.781-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:25:50.800-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.054 seconds
+[2023-12-21T17:26:23.325-0300] {processor.py:157} INFO - Started process (PID=20319) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:26:23.327-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:26:23.328-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:26:23.327-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:26:23.335-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:26:23.346-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:26:23.345-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:26:23.360-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:26:23.359-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:26:23.380-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.058 seconds
+[2023-12-21T17:26:57.614-0300] {processor.py:157} INFO - Started process (PID=20405) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:26:57.614-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:26:57.615-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:26:57.615-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:26:57.623-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:26:57.633-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:26:57.633-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:26:57.647-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:26:57.646-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:26:57.666-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.054 seconds
+[2023-12-21T17:27:30.282-0300] {processor.py:157} INFO - Started process (PID=20550) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:27:30.283-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:27:30.284-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:27:30.284-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:27:30.291-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:27:30.301-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:27:30.301-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:27:30.314-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:27:30.314-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:27:30.332-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.052 seconds
+[2023-12-21T17:28:00.717-0300] {processor.py:157} INFO - Started process (PID=20627) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:28:00.718-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:28:00.718-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:28:00.718-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:28:00.726-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:28:00.736-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:28:00.736-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:28:00.750-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:28:00.749-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:28:00.768-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.053 seconds
+[2023-12-21T17:28:44.236-0300] {processor.py:157} INFO - Started process (PID=20798) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:28:44.238-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:28:44.239-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:28:44.238-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:28:44.246-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:28:44.257-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:28:44.257-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:28:44.270-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:28:44.270-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:28:44.289-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.055 seconds
+[2023-12-21T17:29:28.736-0300] {processor.py:157} INFO - Started process (PID=20971) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:29:28.739-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:29:28.740-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:29:28.739-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:29:28.747-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:29:28.757-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:29:28.757-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:29:28.771-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:29:28.771-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:29:28.791-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.057 seconds
+[2023-12-21T17:30:02.511-0300] {processor.py:157} INFO - Started process (PID=21055) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:30:02.514-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:30:02.514-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:30:02.514-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:30:02.522-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:30:02.532-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:30:02.532-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:30:02.547-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:30:02.547-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:30:02.569-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.061 seconds
+[2023-12-21T17:30:33.420-0300] {processor.py:157} INFO - Started process (PID=21256) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:30:33.421-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:30:33.422-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:30:33.421-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:30:33.429-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:30:33.439-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:30:33.439-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:30:33.453-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:30:33.452-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:30:33.471-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.053 seconds
+[2023-12-21T17:31:08.306-0300] {processor.py:157} INFO - Started process (PID=21342) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:31:08.309-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:31:08.310-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:31:08.309-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:31:08.318-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:31:08.328-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:31:08.328-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:31:08.342-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:31:08.342-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:31:08.362-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.058 seconds
+[2023-12-21T17:31:40.260-0300] {processor.py:157} INFO - Started process (PID=21481) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:31:40.261-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:31:40.262-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:31:40.261-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:31:40.270-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:31:40.280-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:31:40.280-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:31:40.294-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:31:40.294-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:31:40.314-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.056 seconds
+[2023-12-21T17:32:11.683-0300] {processor.py:157} INFO - Started process (PID=21624) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:32:11.686-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:32:11.687-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:32:11.686-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:32:11.695-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:32:11.705-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:32:11.705-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:32:11.720-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:32:11.720-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:32:11.739-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.059 seconds
+[2023-12-21T17:32:54.491-0300] {processor.py:157} INFO - Started process (PID=21732) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:32:54.494-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:32:54.495-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:32:54.494-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:32:54.502-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:32:54.513-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:32:54.512-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:32:54.526-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:32:54.526-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:32:54.545-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.056 seconds
+[2023-12-21T17:33:28.403-0300] {processor.py:157} INFO - Started process (PID=21875) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:33:28.405-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:33:28.406-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:33:28.406-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:33:28.414-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:33:28.424-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:33:28.424-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:33:28.438-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:33:28.438-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:33:28.456-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.055 seconds
+[2023-12-21T17:34:02.713-0300] {processor.py:157} INFO - Started process (PID=21961) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:34:02.715-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:34:02.716-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:34:02.716-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:34:02.724-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:34:02.733-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:34:02.733-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:34:02.746-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:34:02.746-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:34:02.767-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.056 seconds
+[2023-12-21T17:34:46.625-0300] {processor.py:157} INFO - Started process (PID=22135) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:34:46.626-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:34:46.627-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:34:46.627-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:34:46.636-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:34:46.646-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:34:46.646-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:34:46.660-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:34:46.659-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:34:46.679-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.056 seconds
+[2023-12-21T17:35:18.984-0300] {processor.py:157} INFO - Started process (PID=22338) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:35:18.986-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:35:18.987-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:35:18.986-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:35:18.995-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:35:19.006-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:35:19.006-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:35:19.019-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:35:19.019-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:35:19.039-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.057 seconds
+[2023-12-21T17:35:51.574-0300] {processor.py:157} INFO - Started process (PID=22419) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:35:51.574-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:35:51.575-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:35:51.575-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:35:51.584-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:35:51.594-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:35:51.594-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:35:51.609-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:35:51.609-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:35:51.629-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.057 seconds
+[2023-12-21T17:36:24.497-0300] {processor.py:157} INFO - Started process (PID=22562) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:36:24.499-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:36:24.500-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:36:24.500-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:36:24.508-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:36:24.518-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:36:24.518-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:36:24.531-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:36:24.531-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:36:24.550-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.055 seconds
+[2023-12-21T17:37:10.681-0300] {processor.py:157} INFO - Started process (PID=22724) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:37:10.684-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:37:10.685-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:37:10.684-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:37:10.694-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:37:10.705-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:37:10.705-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:37:10.718-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:37:10.718-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:37:10.737-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.059 seconds
+[2023-12-21T17:37:44.474-0300] {processor.py:157} INFO - Started process (PID=22825) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:37:44.476-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:37:44.477-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:37:44.477-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:37:44.485-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:37:44.495-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:37:44.495-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:37:44.508-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:37:44.508-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:37:44.528-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.056 seconds
+[2023-12-21T17:38:16.387-0300] {processor.py:157} INFO - Started process (PID=22967) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:38:16.387-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:38:16.388-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:38:16.388-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:38:16.396-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:38:16.406-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:38:16.405-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:38:16.419-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:38:16.419-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:38:16.437-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.053 seconds
+[2023-12-21T17:38:46.897-0300] {processor.py:157} INFO - Started process (PID=23044) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:38:46.899-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:38:46.900-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:38:46.900-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:38:46.907-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:38:46.917-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:38:46.917-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:38:46.930-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:38:46.930-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:38:46.948-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.053 seconds
+[2023-12-21T17:39:21.855-0300] {processor.py:157} INFO - Started process (PID=23191) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:39:21.857-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:39:21.858-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:39:21.858-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:39:21.866-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:39:21.876-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:39:21.875-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:39:21.889-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:39:21.889-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:39:21.908-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.055 seconds
+[2023-12-21T17:39:57.528-0300] {processor.py:157} INFO - Started process (PID=23277) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:39:57.531-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:39:57.532-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:39:57.531-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:39:57.540-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:39:57.550-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:39:57.550-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:39:57.564-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:39:57.563-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:39:57.582-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.056 seconds
+[2023-12-21T17:40:28.884-0300] {processor.py:157} INFO - Started process (PID=23481) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:40:28.885-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:40:28.885-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:40:28.885-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:40:28.893-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:40:28.904-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:40:28.903-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:40:28.917-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:40:28.917-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:40:28.936-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.054 seconds
+[2023-12-21T17:41:03.427-0300] {processor.py:157} INFO - Started process (PID=23568) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:41:03.430-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:41:03.431-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:41:03.430-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:41:03.438-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:41:03.448-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:41:03.448-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:41:03.460-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:41:03.460-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:41:03.480-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.055 seconds
+[2023-12-21T17:41:35.437-0300] {processor.py:157} INFO - Started process (PID=23709) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:41:35.440-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:41:35.440-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:41:35.440-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:41:35.448-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:41:35.458-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:41:35.458-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:41:35.473-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:41:35.472-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:41:35.491-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.057 seconds
+[2023-12-21T17:42:08.458-0300] {processor.py:157} INFO - Started process (PID=23792) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:42:08.458-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:42:08.459-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:42:08.459-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:42:08.466-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:42:08.476-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:42:08.476-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:42:08.489-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:42:08.489-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:42:08.507-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.052 seconds
+[2023-12-21T17:42:38.892-0300] {processor.py:157} INFO - Started process (PID=23930) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:42:38.894-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:42:38.895-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:42:38.895-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:42:38.903-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:42:38.912-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:42:38.912-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:42:38.925-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:42:38.925-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:42:38.944-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.054 seconds
+[2023-12-21T17:43:10.467-0300] {processor.py:157} INFO - Started process (PID=24032) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:43:10.467-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:43:10.468-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:43:10.468-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:43:10.477-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:43:10.487-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:43:10.487-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:43:10.501-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:43:10.500-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:43:10.520-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.056 seconds
+[2023-12-21T17:43:44.582-0300] {processor.py:157} INFO - Started process (PID=24155) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:43:44.585-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:43:44.585-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:43:44.585-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:43:44.593-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:43:44.603-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:43:44.603-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:43:44.616-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:43:44.616-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:43:44.634-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.054 seconds
+[2023-12-21T17:44:28.057-0300] {processor.py:157} INFO - Started process (PID=24324) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:44:28.060-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:44:28.061-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:44:28.061-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:44:28.068-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:44:28.078-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:44:28.078-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:44:28.091-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:44:28.091-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:44:28.110-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.055 seconds
+[2023-12-21T17:45:11.495-0300] {processor.py:157} INFO - Started process (PID=24500) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:45:11.497-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:45:11.499-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:45:11.499-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:45:11.508-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:45:11.521-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:45:11.520-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:45:11.536-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:45:11.536-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:45:11.557-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.065 seconds
+[2023-12-21T17:45:52.553-0300] {processor.py:157} INFO - Started process (PID=24665) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:45:52.555-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:45:52.556-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:45:52.556-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:45:52.563-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:45:52.573-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:45:52.573-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:45:52.586-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:45:52.586-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:45:52.605-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.054 seconds
+[2023-12-21T17:46:24.252-0300] {processor.py:157} INFO - Started process (PID=24804) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:46:24.253-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:46:24.253-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:46:24.253-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:46:24.262-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:46:24.272-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:46:24.272-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:46:24.286-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:46:24.286-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:46:24.314-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.065 seconds
+[2023-12-21T17:46:54.548-0300] {processor.py:157} INFO - Started process (PID=24881) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:46:54.551-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:46:54.552-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:46:54.551-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:46:54.559-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:46:54.569-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:46:54.569-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:46:54.583-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:46:54.583-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:46:54.604-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.058 seconds
+[2023-12-21T17:47:25.996-0300] {processor.py:157} INFO - Started process (PID=25022) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:47:25.997-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:47:25.997-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:47:25.997-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:47:26.005-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:47:26.015-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:47:26.014-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:47:26.027-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:47:26.027-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:47:26.047-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.053 seconds
+[2023-12-21T17:48:00.058-0300] {processor.py:157} INFO - Started process (PID=25106) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:48:00.061-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:48:00.061-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:48:00.061-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:48:00.069-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:48:00.078-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:48:00.078-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:48:00.092-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:48:00.091-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:48:00.112-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.057 seconds
+[2023-12-21T17:48:32.116-0300] {processor.py:157} INFO - Started process (PID=25246) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:48:32.117-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:48:32.117-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:48:32.117-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:48:32.127-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:48:32.136-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:48:32.136-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:48:32.149-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:48:32.149-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:48:32.168-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.054 seconds
+[2023-12-21T17:49:06.288-0300] {processor.py:157} INFO - Started process (PID=25333) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:49:06.290-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:49:06.291-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:49:06.290-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:49:06.299-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:49:06.309-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:49:06.308-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:49:06.322-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:49:06.322-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:49:06.466-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.180 seconds
+[2023-12-21T17:49:46.002-0300] {processor.py:157} INFO - Started process (PID=25491) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:49:46.003-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:49:46.004-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:49:46.004-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:49:46.011-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:49:46.023-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:49:46.023-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:49:46.037-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:49:46.037-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:49:46.055-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.056 seconds
+[2023-12-21T17:50:20.359-0300] {processor.py:157} INFO - Started process (PID=25700) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:50:20.361-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:50:20.361-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:50:20.361-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:50:20.369-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:50:20.379-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:50:20.379-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:50:20.393-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:50:20.393-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:50:20.412-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.055 seconds
+[2023-12-21T17:50:51.800-0300] {processor.py:157} INFO - Started process (PID=25782) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:50:51.801-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:50:51.802-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:50:51.802-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:50:51.813-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:50:51.824-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:50:51.824-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:50:51.838-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:50:51.837-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:50:51.857-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.061 seconds
+[2023-12-21T17:51:23.213-0300] {processor.py:157} INFO - Started process (PID=25920) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:51:23.217-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:51:23.218-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:51:23.218-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:51:23.229-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:51:23.242-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:51:23.242-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:51:23.256-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:51:23.256-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:51:23.276-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.067 seconds
+[2023-12-21T17:51:54.095-0300] {processor.py:157} INFO - Started process (PID=25998) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:51:54.095-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:51:54.097-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:51:54.096-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:51:54.104-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:51:54.115-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:51:54.115-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:51:54.129-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:51:54.129-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:51:54.152-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.060 seconds
+[2023-12-21T17:52:24.941-0300] {processor.py:157} INFO - Started process (PID=26136) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:52:24.944-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:52:24.945-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:52:24.945-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:52:24.953-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:52:24.963-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:52:24.963-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:52:24.977-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:52:24.977-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:52:24.996-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.057 seconds
+[2023-12-21T17:53:08.332-0300] {processor.py:157} INFO - Started process (PID=26249) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:53:08.334-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:53:08.335-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:53:08.335-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:53:08.343-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:53:08.353-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:53:08.353-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:53:08.368-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:53:08.368-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:53:08.388-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.058 seconds
+[2023-12-21T17:53:40.984-0300] {processor.py:157} INFO - Started process (PID=26394) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:53:40.985-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:53:40.986-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:53:40.986-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:53:40.994-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:53:41.008-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:53:41.008-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:53:41.023-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:53:41.023-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:53:41.060-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.078 seconds
+[2023-12-21T17:54:14.513-0300] {processor.py:157} INFO - Started process (PID=26535) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:54:14.516-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:54:14.516-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:54:14.516-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:54:14.524-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:54:14.534-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:54:14.534-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:54:14.548-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:54:14.548-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:54:14.568-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.058 seconds
+[2023-12-21T17:54:49.679-0300] {processor.py:157} INFO - Started process (PID=26623) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:54:49.680-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:54:49.681-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:54:49.681-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:54:49.689-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:54:49.698-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:54:49.698-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:54:49.712-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:54:49.711-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:54:49.731-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.054 seconds
+[2023-12-21T17:55:20.289-0300] {processor.py:157} INFO - Started process (PID=26822) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:55:20.289-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:55:20.290-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:55:20.290-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:55:20.298-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:55:20.311-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:55:20.311-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:55:20.326-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:55:20.325-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:55:20.345-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.058 seconds
+[2023-12-21T17:55:52.160-0300] {processor.py:157} INFO - Started process (PID=26903) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:55:52.161-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:55:52.162-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:55:52.162-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:55:52.172-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:55:52.183-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:55:52.182-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:55:52.197-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:55:52.196-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:55:52.218-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.060 seconds
+[2023-12-21T17:56:24.702-0300] {processor.py:157} INFO - Started process (PID=27045) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:56:24.703-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:56:24.703-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:56:24.703-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:56:24.711-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:56:24.722-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:56:24.721-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:56:24.735-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:56:24.735-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:56:24.756-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.056 seconds
+[2023-12-21T17:56:58.949-0300] {processor.py:157} INFO - Started process (PID=27148) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:56:58.951-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:56:58.952-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:56:58.952-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:56:58.960-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:56:58.971-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:56:58.971-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:56:58.986-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:56:58.986-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:56:59.005-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.058 seconds
+[2023-12-21T17:57:43.300-0300] {processor.py:157} INFO - Started process (PID=27321) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:57:43.301-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:57:43.302-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:57:43.302-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:57:43.310-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:57:43.326-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:57:43.326-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:57:43.346-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:57:43.345-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:57:43.371-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.076 seconds
+[2023-12-21T17:58:17.225-0300] {processor.py:157} INFO - Started process (PID=27475) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:58:17.225-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:58:17.226-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:58:17.226-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:58:17.234-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:58:17.244-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:58:17.244-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:58:17.257-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:58:17.257-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:58:17.276-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.054 seconds
+[2023-12-21T17:59:02.441-0300] {processor.py:157} INFO - Started process (PID=27606) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:59:02.443-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:59:02.444-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:59:02.444-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:59:02.453-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:59:02.464-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:59:02.464-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:59:02.476-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:59:02.476-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:59:02.495-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.056 seconds
+[2023-12-21T17:59:33.785-0300] {processor.py:157} INFO - Started process (PID=27750) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:59:33.786-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T17:59:33.786-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:59:33.786-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:59:33.794-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T17:59:33.803-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:59:33.803-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T17:59:33.817-0300] {logging_mixin.py:154} INFO - [2023-12-21T17:59:33.816-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T17:59:33.837-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.054 seconds
+[2023-12-21T18:00:05.242-0300] {processor.py:157} INFO - Started process (PID=27833) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T18:00:05.245-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T18:00:05.246-0300] {logging_mixin.py:154} INFO - [2023-12-21T18:00:05.245-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T18:00:05.254-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T18:00:05.264-0300] {logging_mixin.py:154} INFO - [2023-12-21T18:00:05.264-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T18:00:05.278-0300] {logging_mixin.py:154} INFO - [2023-12-21T18:00:05.278-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T18:00:05.297-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.059 seconds
+[2023-12-21T18:00:36.766-0300] {processor.py:157} INFO - Started process (PID=28034) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T18:00:36.767-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T18:00:36.768-0300] {logging_mixin.py:154} INFO - [2023-12-21T18:00:36.767-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T18:00:36.776-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T18:00:36.786-0300] {logging_mixin.py:154} INFO - [2023-12-21T18:00:36.786-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T18:00:36.801-0300] {logging_mixin.py:154} INFO - [2023-12-21T18:00:36.801-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T18:00:36.821-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.057 seconds
+[2023-12-21T18:01:08.155-0300] {processor.py:157} INFO - Started process (PID=28112) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T18:01:08.156-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T18:01:08.157-0300] {logging_mixin.py:154} INFO - [2023-12-21T18:01:08.157-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T18:01:08.165-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T18:01:08.175-0300] {logging_mixin.py:154} INFO - [2023-12-21T18:01:08.175-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T18:01:08.188-0300] {logging_mixin.py:154} INFO - [2023-12-21T18:01:08.188-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T18:01:08.207-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.054 seconds
+[2023-12-21T18:01:48.280-0300] {processor.py:157} INFO - Started process (PID=28278) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T18:01:48.283-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T18:01:48.283-0300] {logging_mixin.py:154} INFO - [2023-12-21T18:01:48.283-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T18:01:48.294-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T18:01:48.304-0300] {logging_mixin.py:154} INFO - [2023-12-21T18:01:48.304-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T18:01:48.322-0300] {logging_mixin.py:154} INFO - [2023-12-21T18:01:48.322-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T18:01:48.349-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.071 seconds
+[2023-12-21T18:02:32.495-0300] {processor.py:157} INFO - Started process (PID=28448) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T18:02:32.498-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T18:02:32.499-0300] {logging_mixin.py:154} INFO - [2023-12-21T18:02:32.499-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T18:02:32.507-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T18:02:32.517-0300] {logging_mixin.py:154} INFO - [2023-12-21T18:02:32.517-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T18:02:32.531-0300] {logging_mixin.py:154} INFO - [2023-12-21T18:02:32.530-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T18:02:32.549-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.056 seconds
+[2023-12-21T18:03:06.468-0300] {processor.py:157} INFO - Started process (PID=28533) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T18:03:06.469-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T18:03:06.470-0300] {logging_mixin.py:154} INFO - [2023-12-21T18:03:06.470-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T18:03:06.478-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T18:03:06.488-0300] {logging_mixin.py:154} INFO - [2023-12-21T18:03:06.488-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T18:03:06.502-0300] {logging_mixin.py:154} INFO - [2023-12-21T18:03:06.502-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T18:03:06.523-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.057 seconds
+[2023-12-21T18:03:41.741-0300] {processor.py:157} INFO - Started process (PID=28680) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T18:03:41.742-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T18:03:41.743-0300] {logging_mixin.py:154} INFO - [2023-12-21T18:03:41.743-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T18:03:41.753-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T18:03:41.763-0300] {logging_mixin.py:154} INFO - [2023-12-21T18:03:41.763-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T18:03:41.779-0300] {logging_mixin.py:154} INFO - [2023-12-21T18:03:41.779-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T18:03:41.797-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.059 seconds
+[2023-12-21T18:04:14.775-0300] {processor.py:157} INFO - Started process (PID=28825) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T18:04:14.776-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T18:04:14.776-0300] {logging_mixin.py:154} INFO - [2023-12-21T18:04:14.776-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T18:04:14.785-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T18:04:14.794-0300] {logging_mixin.py:154} INFO - [2023-12-21T18:04:14.794-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T18:04:14.808-0300] {logging_mixin.py:154} INFO - [2023-12-21T18:04:14.808-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T18:04:14.828-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.055 seconds
+[2023-12-21T18:04:59.461-0300] {processor.py:157} INFO - Started process (PID=28939) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T18:04:59.464-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T18:04:59.465-0300] {logging_mixin.py:154} INFO - [2023-12-21T18:04:59.464-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T18:04:59.472-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T18:04:59.482-0300] {logging_mixin.py:154} INFO - [2023-12-21T18:04:59.482-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T18:04:59.496-0300] {logging_mixin.py:154} INFO - [2023-12-21T18:04:59.495-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T18:04:59.514-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.055 seconds
+[2023-12-21T18:05:33.597-0300] {processor.py:157} INFO - Started process (PID=29148) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T18:05:33.599-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T18:05:33.600-0300] {logging_mixin.py:154} INFO - [2023-12-21T18:05:33.600-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T18:05:33.608-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T18:05:33.618-0300] {logging_mixin.py:154} INFO - [2023-12-21T18:05:33.618-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T18:05:33.631-0300] {logging_mixin.py:154} INFO - [2023-12-21T18:05:33.631-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T18:05:33.651-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.056 seconds
+[2023-12-21T18:06:06.781-0300] {processor.py:157} INFO - Started process (PID=29229) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T18:06:06.782-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T18:06:06.783-0300] {logging_mixin.py:154} INFO - [2023-12-21T18:06:06.783-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T18:06:06.790-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T18:06:06.801-0300] {logging_mixin.py:154} INFO - [2023-12-21T18:06:06.801-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T18:06:06.814-0300] {logging_mixin.py:154} INFO - [2023-12-21T18:06:06.814-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T18:06:06.834-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.055 seconds
+[2023-12-21T18:06:50.786-0300] {processor.py:157} INFO - Started process (PID=29403) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T18:06:50.788-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T18:06:50.789-0300] {logging_mixin.py:154} INFO - [2023-12-21T18:06:50.789-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T18:06:50.797-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T18:06:50.807-0300] {logging_mixin.py:154} INFO - [2023-12-21T18:06:50.806-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T18:06:50.821-0300] {logging_mixin.py:154} INFO - [2023-12-21T18:06:50.821-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T18:06:50.841-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.057 seconds
+[2023-12-21T18:07:22.836-0300] {processor.py:157} INFO - Started process (PID=29559) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T18:07:22.839-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T18:07:22.839-0300] {logging_mixin.py:154} INFO - [2023-12-21T18:07:22.839-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T18:07:22.847-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T18:07:22.858-0300] {logging_mixin.py:154} INFO - [2023-12-21T18:07:22.858-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T18:07:22.871-0300] {logging_mixin.py:154} INFO - [2023-12-21T18:07:22.871-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T18:07:22.892-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.059 seconds
+[2023-12-21T18:08:06.916-0300] {processor.py:157} INFO - Started process (PID=29670) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T18:08:06.919-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T18:08:06.919-0300] {logging_mixin.py:154} INFO - [2023-12-21T18:08:06.919-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T18:08:06.927-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T18:08:06.937-0300] {logging_mixin.py:154} INFO - [2023-12-21T18:08:06.937-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T18:08:06.950-0300] {logging_mixin.py:154} INFO - [2023-12-21T18:08:06.950-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T18:08:06.968-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.054 seconds
+[2023-12-21T18:08:37.817-0300] {processor.py:157} INFO - Started process (PID=29809) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T18:08:37.817-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T18:08:37.818-0300] {logging_mixin.py:154} INFO - [2023-12-21T18:08:37.818-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T18:08:37.826-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T18:08:37.840-0300] {logging_mixin.py:154} INFO - [2023-12-21T18:08:37.840-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T18:08:37.855-0300] {logging_mixin.py:154} INFO - [2023-12-21T18:08:37.855-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T18:08:37.873-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.060 seconds
+[2023-12-21T18:09:08.684-0300] {processor.py:157} INFO - Started process (PID=29885) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T18:09:08.686-0300] {processor.py:829} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-12-21T18:09:08.687-0300] {logging_mixin.py:154} INFO - [2023-12-21T18:09:08.687-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T18:09:08.700-0300] {processor.py:839} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py
+[2023-12-21T18:09:08.713-0300] {logging_mixin.py:154} INFO - [2023-12-21T18:09:08.713-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-21T18:09:08.729-0300] {logging_mixin.py:154} INFO - [2023-12-21T18:09:08.728-0300] {dag.py:3722} INFO - Setting next_dagrun for TwitterDAG to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-21T18:09:08.756-0300] {processor.py:179} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/airflow_pipeline/dags/twitter_dag.py took 0.074 seconds

@@ -1,0 +1,11 @@
+[2023-11-14 15:19:09,782] {processor.py:153} INFO - Started process (PID=5330) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-11-14 15:19:09,783] {processor.py:641} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2023-11-14 15:19:09,783] {logging_mixin.py:115} INFO - [2023-11-14 15:19:09,783] {dagbag.py:507} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-11-14 15:19:09,789] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-11-14 15:19:09,845] {logging_mixin.py:115} INFO - [2023-11-14 15:19:09,845] {manager.py:508} INFO - Created Permission View: can edit on DAG:tutorial_etl_dag
+[2023-11-14 15:19:09,856] {logging_mixin.py:115} INFO - [2023-11-14 15:19:09,856] {manager.py:508} INFO - Created Permission View: can delete on DAG:tutorial_etl_dag
+[2023-11-14 15:19:09,867] {logging_mixin.py:115} INFO - [2023-11-14 15:19:09,867] {manager.py:508} INFO - Created Permission View: can read on DAG:tutorial_etl_dag
+[2023-11-14 15:19:09,867] {logging_mixin.py:115} INFO - [2023-11-14 15:19:09,867] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-11-14 15:19:09,872] {logging_mixin.py:115} INFO - [2023-11-14 15:19:09,872] {dag.py:2398} INFO - Creating ORM DAG for tutorial_etl_dag
+[2023-11-14 15:19:09,877] {logging_mixin.py:115} INFO - [2023-11-14 15:19:09,877] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-11-14 15:19:09,892] {processor.py:161} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.112 seconds

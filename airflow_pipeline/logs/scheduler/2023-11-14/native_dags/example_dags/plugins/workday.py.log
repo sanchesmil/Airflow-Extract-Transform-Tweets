@@ -1,0 +1,5 @@
+[2023-11-14 15:19:35,642] {processor.py:153} INFO - Started process (PID=5354) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-11-14 15:19:35,642] {processor.py:641} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-11-14 15:19:35,642] {logging_mixin.py:115} INFO - [2023-11-14 15:19:35,642] {dagbag.py:507} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-11-14 15:19:35,643] {processor.py:653} WARNING - No viable dags retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-11-14 15:19:35,649] {processor.py:161} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.010 seconds

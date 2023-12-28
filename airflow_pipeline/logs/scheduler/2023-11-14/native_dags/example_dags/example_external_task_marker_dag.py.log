@@ -1,0 +1,16 @@
+[2023-11-14 15:19:32,033] {processor.py:153} INFO - Started process (PID=5351) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2023-11-14 15:19:32,033] {processor.py:641} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2023-11-14 15:19:32,033] {logging_mixin.py:115} INFO - [2023-11-14 15:19:32,033] {dagbag.py:507} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2023-11-14 15:19:32,036] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2023-11-14 15:19:32,091] {logging_mixin.py:115} INFO - [2023-11-14 15:19:32,090] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_external_task_marker_parent
+[2023-11-14 15:19:32,103] {logging_mixin.py:115} INFO - [2023-11-14 15:19:32,102] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_external_task_marker_parent
+[2023-11-14 15:19:32,114] {logging_mixin.py:115} INFO - [2023-11-14 15:19:32,114] {manager.py:508} INFO - Created Permission View: can read on DAG:example_external_task_marker_parent
+[2023-11-14 15:19:32,139] {logging_mixin.py:115} INFO - [2023-11-14 15:19:32,139] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_external_task_marker_child
+[2023-11-14 15:19:32,149] {logging_mixin.py:115} INFO - [2023-11-14 15:19:32,149] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_external_task_marker_child
+[2023-11-14 15:19:32,159] {logging_mixin.py:115} INFO - [2023-11-14 15:19:32,159] {manager.py:508} INFO - Created Permission View: can read on DAG:example_external_task_marker_child
+[2023-11-14 15:19:32,159] {logging_mixin.py:115} INFO - [2023-11-14 15:19:32,159] {dag.py:2379} INFO - Sync 2 DAGs
+[2023-11-14 15:19:32,164] {logging_mixin.py:115} INFO - [2023-11-14 15:19:32,164] {dag.py:2398} INFO - Creating ORM DAG for example_external_task_marker_child
+[2023-11-14 15:19:32,164] {logging_mixin.py:115} INFO - [2023-11-14 15:19:32,164] {dag.py:2398} INFO - Creating ORM DAG for example_external_task_marker_parent
+[2023-11-14 15:19:32,169] {logging_mixin.py:115} INFO - [2023-11-14 15:19:32,169] {dag.py:2927} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2023-11-14 15:19:32,169] {logging_mixin.py:115} INFO - [2023-11-14 15:19:32,169] {dag.py:2927} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2023-11-14 15:19:32,185] {processor.py:161} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.154 seconds

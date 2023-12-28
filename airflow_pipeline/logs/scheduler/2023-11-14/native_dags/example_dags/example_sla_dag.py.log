@@ -1,0 +1,11 @@
+[2023-11-14 15:19:17,523] {processor.py:153} INFO - Started process (PID=5337) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-11-14 15:19:17,524] {processor.py:641} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-11-14 15:19:17,524] {logging_mixin.py:115} INFO - [2023-11-14 15:19:17,524] {dagbag.py:507} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-11-14 15:19:17,534] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-11-14 15:19:17,583] {logging_mixin.py:115} INFO - [2023-11-14 15:19:17,583] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_sla_dag
+[2023-11-14 15:19:17,595] {logging_mixin.py:115} INFO - [2023-11-14 15:19:17,595] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_sla_dag
+[2023-11-14 15:19:17,604] {logging_mixin.py:115} INFO - [2023-11-14 15:19:17,604] {manager.py:508} INFO - Created Permission View: can read on DAG:example_sla_dag
+[2023-11-14 15:19:17,604] {logging_mixin.py:115} INFO - [2023-11-14 15:19:17,604] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-11-14 15:19:17,609] {logging_mixin.py:115} INFO - [2023-11-14 15:19:17,609] {dag.py:2398} INFO - Creating ORM DAG for example_sla_dag
+[2023-11-14 15:19:17,616] {logging_mixin.py:115} INFO - [2023-11-14 15:19:17,616] {dag.py:2927} INFO - Setting next_dagrun for example_sla_dag to 2023-11-14T18:16:00+00:00, run_after=2023-11-14T18:18:00+00:00
+[2023-11-14 15:19:17,632] {processor.py:161} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py took 0.110 seconds

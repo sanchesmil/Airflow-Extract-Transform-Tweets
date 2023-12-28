@@ -1,0 +1,11 @@
+[2023-11-14 15:19:29,768] {processor.py:153} INFO - Started process (PID=5349) to work on /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-11-14 15:19:29,769] {processor.py:641} INFO - Processing file /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-11-14 15:19:29,769] {logging_mixin.py:115} INFO - [2023-11-14 15:19:29,769] {dagbag.py:507} INFO - Filling up the DagBag from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-11-14 15:19:29,778] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-11-14 15:19:29,830] {logging_mixin.py:115} INFO - [2023-11-14 15:19:29,830] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_trigger_target_dag
+[2023-11-14 15:19:29,842] {logging_mixin.py:115} INFO - [2023-11-14 15:19:29,842] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_trigger_target_dag
+[2023-11-14 15:19:29,852] {logging_mixin.py:115} INFO - [2023-11-14 15:19:29,852] {manager.py:508} INFO - Created Permission View: can read on DAG:example_trigger_target_dag
+[2023-11-14 15:19:29,852] {logging_mixin.py:115} INFO - [2023-11-14 15:19:29,852] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-11-14 15:19:29,856] {logging_mixin.py:115} INFO - [2023-11-14 15:19:29,856] {dag.py:2398} INFO - Creating ORM DAG for example_trigger_target_dag
+[2023-11-14 15:19:29,870] {logging_mixin.py:115} INFO - [2023-11-14 15:19:29,870] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-11-14 15:19:29,884] {processor.py:161} INFO - Processing /home/pedro/projetos/projetos_python/proj_twitter_pipeline/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.117 seconds
